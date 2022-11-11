@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "ALVARO VILLADIEGO",
+      "email": "skapool@gmail.com",
+      "mobile": "3046180545",
+      "password": "123453",
+      "id": 1
+    },
+    {
+      "name": "EMMANUEL VILLADIEGO GOMEZ",
+      "email": "magister.udea@gmail.com",
+      "mobile": "3013340616",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "avive"
+  }
+}
